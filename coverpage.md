@@ -1,0 +1,11 @@
+<!-- _coverpage.md -->
+
+# Infinite-Firepower
+
+> 向下滑动以查看文档
+
+
+<!-- 背景图片 -->
+
+![](./coverpage.jpg)
+
