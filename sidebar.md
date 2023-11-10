@@ -1,12 +1,12 @@
-- **正式服**
+- **无限火力 Release**
 
-  - [TL;DR](README.md)
+  - [TL;DR](home.md)
 
   - [完整文档](docs.md)
 
-- **AI测试服**
+- **无限火力 Rotation**
 
-  - [AI测试服改动详情](aitest.md)
+  - [更改和新增](rotation.md)
 
 - **开发文档(未完成)**
 
