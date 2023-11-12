@@ -44,6 +44,8 @@ ai被破除射击限制，如果ai想，他现在可以直接打光弹匣
 
 # 游戏模式改动
 
+**游戏模式包基于[VoyageDB](https://github.com/DBmaoha)大佬的[nessie.tempfix](https://github.com/DBmaoha/Super.Mixed.Game/tree/nessie-tempfix)修改得来！在此由衷感谢**
+
 ## 消耗战
 
 ### 常规
