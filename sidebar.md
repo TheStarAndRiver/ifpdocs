@@ -1,7 +1,5 @@
 - **无限火力 Release**
 
-  - [TL;DR](home.md)
-
   - [完整文档](docs.md)
 
 - **无限火力 Rotation**

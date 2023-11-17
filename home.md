@@ -1,10 +1,12 @@
-**如果你发现了任何bug（或者疑似bug）一定要积极的反馈给我！这真的很重要！**
-
-联系方式：
-
-QQ群：`150381961` [@LightBlueCube](https://github.com/LightBlueCube)
-
-或[发送一个Issues](https://github.com/LightBlueCube/ifpdocs/issues/new)给我
+> [!NOTE|style:flat|label:Note]
+>
+> **如果你发现了任何bug（或者疑似bug）一定要积极的反馈给我！这真的很重要！**
+>
+> 联系方式：
+>
+> QQ群：`150381961` [@LightBlueCube](https://github.com/LightBlueCube)
+>
+> 或[发送一个Issues](https://github.com/LightBlueCube/ifpdocs/issues/new)给我
 
 ## 特别鸣谢（名字按首字母顺序排列）：
 
@@ -14,11 +16,15 @@ QQ群：`150381961` [@LightBlueCube](https://github.com/LightBlueCube)
 
 [DZ](https://github.com/Ghroth-follower)
 
+[KKoishi](https://github.com/Koishi-Satori)
+
 [Pan-da32767](https://github.com/Pan-da32767)
 
 [VoyageDB](https://github.com/DBmaoha)
 
 [wolf109909](https://github.com/wolf109909)
+
+[xiaobbuguai](https://github.com/xiaobbuguai)
 
 [zxcPandora](https://github.com/zxcPandora)
 
@@ -32,14 +38,12 @@ QQ群：`150381961` [@LightBlueCube](https://github.com/LightBlueCube)
 
 每个泰坦选择至尊涂装都有一个对应的新的泰坦！（帝王为携带"帝王边境"皮肤）
 
-## 已知问题
+> [!WARNING|style:flat|label:已知问题]
+> **使用任何类型的更改技能HUD显示类MOD都会导致部分客制化泰坦技能的充能无法正常显示，请使用原版HUD！**
+>
+> 此问题主要是因为mod更改过的hud显示充能剩余的逻辑和原版不一致，导致部分客制化泰坦的技能因为客户端不同步的问题充能条会抽风，此问题无法修复，我也不会去修复
+>
+> 受影响技能：游侠左栏位，天图右栏位
 
-**使用任何类型的更改技能HUD显示的MOD都会导致部分客制化泰坦技能的充能无法正常显示，请使用原版HUD！**
-
-此问题主要是因为mod改过的hud显示充能剩余的逻辑和原版不一致，导致部分客制化泰坦的技能因为客户端不同步的问题充能条会抽风，此问题无法修复，我也不会去修复
-
-受影响技能：游侠左栏位，天图右栏位
-
-----
-
-**如果你使用的是手机端，可以在左下角打开侧边栏**
+> [!TIP|style:flat|label:Tips！]
+> 如果你使用的是手机端，可以在左下角打开侧边栏
