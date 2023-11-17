@@ -1,7 +1,9 @@
-- [无限火力 Release](docs.md)
+- **帮助文档**
+
+  - [无限火力 Release](docs.md)
 
   - [无限火力 Rotation](rotation.md)
 
-- **开发文档(未完成)**
+- **开发文档**
 
-  - [Music API](musicapi.md)
+  - [Music API(未完成)](musicapi.md)

@@ -1,3 +1,6 @@
+> [!ATTENTION|style:flat|label:Attention]
+> 阅读前请确保你已经完整的阅读过一次[无限火力 Release](docs.md)文档
+
 # 全局改动
 
 ## 常规
