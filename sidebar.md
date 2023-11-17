@@ -1,10 +1,6 @@
-- **无限火力 Release**
+- [无限火力 Release](docs.md)
 
-  - [完整文档](docs.md)
-
-- **无限火力 Rotation**
-
-  - [更改和新增](rotation.md)
+  - [无限火力 Rotation](rotation.md)
 
 - **开发文档(未完成)**
 
