@@ -23,10 +23,12 @@ ai被额外的允许使用以下几种武器（充能步枪，射手飞弹，磁
 
 ai使用武器的伤害复原为武器正常伤害
 
+> [!NOTE|style:flat|label:Note]
 > 当ai使用武器时，在原版状态下武器的伤害会减小许多（一般为3-4倍左右），在此更改后，ai使用武器的伤害和正常伤害保持一致
 
 ai被破除射击限制，如果ai想，他现在可以直接打光弹匣
 
+> [!NOTE|style:flat|label:Note]
 > 原版ai有很多射击限制，这迫使他们不得不打几发泼水后等待设置的冷却时间结束才能继续打
 
 步兵的血量被提升至100，近战伤害提升至60
@@ -48,7 +50,7 @@ ai被破除射击限制，如果ai想，他现在可以直接打光弹匣
 # 游戏模式改动
 
 > [!NOTE|style:flat|label:Note]
-> 游戏模式包基于[VoyageDB](https://github.com/DBmaoha)的[nessie.tempfix](https://github.com/DBmaoha/Super.Mixed.Game/tree/nessie-tempfix)修改得来！
+> 游戏模式包基于[VoyageDB](https://github.com/DBmaoha)的[nessie.tempfix](https://github.com/DBmaoha/Super.Mixed.Game/tree/nessie-tempfix)修改得来！在此由衷感谢
 
 ## 消耗战
 
