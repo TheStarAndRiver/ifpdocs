@@ -31,6 +31,9 @@
 
 ### 铁驭护盾
 
+> [!NOTE|style:flat|label:Note]
+> 铁驭护盾使用和参考了[VoyageDB](https://github.com/DBmaoha)的[Bleedout模式](https://github.com/DBmaoha/Super.Mixed.Game/blob/main/mod/scripts/vscripts/modifiers/modifier_bleedout.gnut)和[铁驭护盾电池](https://github.com/DBmaoha/Super.Mixed.Game/blob/main/mod/scripts/vscripts/pilotutil/pilot_shield_battery.gnut)的大部分代码，非常感谢！
+
 铁驭现在拥有一个血量为100的护盾（参考apex！）
 
 使用电池可以恢复满护盾
