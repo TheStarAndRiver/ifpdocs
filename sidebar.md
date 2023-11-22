@@ -10,11 +10,13 @@
 
   - [七个客制化泰坦](docs/modifytitan.md)
 
-- [**无限火力Release**](docs/release.md)
+  <br\>
 
-- [**无限火力Rotation**](docs/rotation.md)
+  - [**无限火力Release**](docs/release.md)
 
-  - [各个模式的改动](docs/gamemode.md)
+  - [**无限火力Rotation**](docs/rotation.md)
+
+    - [各个模式的改动](docs/gamemode.md)
 
 - **开发文档**
 
