@@ -10,7 +10,7 @@
 
   - [七个客制化泰坦](docs/modifytitan.md)
 
-- **Server**
+- **Servers**
 
   - [**无限火力Release**](docs/release.md)
 
