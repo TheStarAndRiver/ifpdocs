@@ -10,8 +10,6 @@
 
   - [七个客制化泰坦](docs/modifytitan.md)
 
-----
-
 - [无限火力Release](docs/release.md)
 
 - [无限火力Rotation](docs/rotation.md)
