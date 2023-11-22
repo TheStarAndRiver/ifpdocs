@@ -10,7 +10,7 @@
 
   - [七个客制化泰坦](docs/modifytitan.md)
 
-  <br/>
+- **Servers**
 
   - [**无限火力Release**](docs/release.md)
 
@@ -18,6 +18,6 @@
 
     - [各个模式的改动](docs/gamemode.md)
 
-- **开发文档**
+- **Develop**
 
   - [Music API(未完成)](dev/musicapi.md)
