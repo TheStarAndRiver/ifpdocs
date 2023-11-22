@@ -7,5 +7,5 @@
 
 <!-- 背景图片 -->
 
-![](./coverpage.webp)
+![](./src/coverpage.webp)
 

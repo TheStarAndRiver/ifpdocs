@@ -1,9 +1,23 @@
-- **帮助文档**
+- **Introduction**
 
-  - [无限火力 Release](docs.md)
+  - [连杀奖励和GUI菜单](docs/killstreak.md)
 
-  - [无限火力 Rotation](rotation.md)
+  - [铁驭个人护盾](docs/pilotshield.md)
+
+  - [一代训牛术和电池机制](docs/rodeo.md)
+
+  - [原版泰坦的改动](docs/vanillatitan.md)
+
+  - [七个客制化泰坦](docs/modifytitan.md)
+
+----
+
+- [无限火力Release](docs/release.md)
+
+- [无限火力Rotation](docs/rotation.md)
+
+  - [各个模式的改动](docs/gamemode.md)
 
 - **开发文档**
 
-  - [Music API(未完成)](musicapi.md)
+  - [Music API(未完成)](dev/musicapi.md)
