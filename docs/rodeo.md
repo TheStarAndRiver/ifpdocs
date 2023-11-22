@@ -40,10 +40,10 @@
 
 电池可以在GUI菜单内选择扔出
 
-> 我非常不理解为什么原版TTF2不能扔出电池，难道这是[SCP-198](https://scp-wiki-cn.wikidot.com/scp-198)吗
-
 > [!TIP|style:flat|label:Tips！]
 > 电池不仅可以在GUI菜单中选择丢弃，还可以在未打开GUI菜单时直接长按 泰坦辅助技能键（默认为G）来快速丢弃电池
 
 > [!NOTE|style:flat|label:Note]
 > 如果找不到该按键可以去设置看按键对应内的 泰坦辅助技能 绑定的是什么按键
+
+> 我其实一直都非常不理解为什么原版TTF2不能扔出电池，难道这是[SCP-198](https://scp-wiki-cn.wikidot.com/scp-198)吗
