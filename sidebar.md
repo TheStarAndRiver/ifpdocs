@@ -18,6 +18,6 @@
 
     - [各个模式的改动](docs/gamemode.md)
 
-- **Develop**
+- **Developer**
 
   - [Music API(未完成)](dev/musicapi.md)
