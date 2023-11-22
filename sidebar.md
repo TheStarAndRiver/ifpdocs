@@ -10,7 +10,7 @@
 
   - [七个客制化泰坦](docs/modifytitan.md)
 
-  <br\>
+  <br/>
 
   - [**无限火力Release**](docs/release.md)
 
