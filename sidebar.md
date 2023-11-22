@@ -16,7 +16,7 @@
 
   - [**无限火力Rotation**](docs/rotation.md)
 
-    - [各个模式的改动](docs/gamemode.md)
+  - [Rotation中各个模式的改动](docs/gamemode.md)
 
 - **Developer**
 
