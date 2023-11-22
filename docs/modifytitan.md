@@ -58,7 +58,7 @@
 
 > 在一次大冲刺后拍地，对周围泰坦造成毁灭性打击
 
-> [!WARNING|style:flat|label:Warning]
+> [!WARNING|style:flat|label:Attention]
 > 野牛不会被卡拳，同样的，野牛也无法卡别人拳
 
 ### 野兽四号
