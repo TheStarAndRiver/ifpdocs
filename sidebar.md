@@ -13,7 +13,7 @@
   - [<font color="#33CCAA">七个客制化泰坦</font>](docs/modifytitan.md)
 
 
-- **<font color="#8877FF">Servers</font>**
+- **<font color="#3344DD">Servers</font>**
 
   - [**<font color="#8855EE">无限火力Release</font>**](docs/release.md)
 
@@ -21,6 +21,6 @@
 
   - [<font color="#9966FF">Rotation中各个模式的改动</font>](docs/gamemode.md)
 
-- **<font color="#FF9966">Developer</font>**
+- **<font color="#DD8866">Developer</font>**
 
-  - [<font color="#DD8866">Music API(未完成)</font>](dev/musicapi.md)
+  - [<font color="#FF9966">Music API(未完成)</font>](dev/musicapi.md)
