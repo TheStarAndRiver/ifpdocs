@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-# Infinite-Firepower
+# Infinite Firepower
 
-> 向下滑动以查看文档
+> 向下滑动以继续
 
 
 <!-- 背景图片 -->
