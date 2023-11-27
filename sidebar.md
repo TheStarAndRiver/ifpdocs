@@ -1,4 +1,4 @@
-- [**<font color="#FF1199">更新日志 / Latest: Ver11.0</font>**](docs/changelog.md)
+- [**<font color="#FF1199">更新日志 / Latest: Ver11.0.7</font>**](docs/changelog.md)
 
 - **<font color="#00BB33">Introduction</font>**
 
