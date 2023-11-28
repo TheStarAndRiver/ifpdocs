@@ -15,7 +15,7 @@
 > [!WARNING|style:flat|label:Warning]
 > 电池被拔出后，会在你泰坦的名字后显示"反應爐外漏"，所有人都能看到，小心行事！
 
-> [!TIP|style:flat|label:Tips！]
+> [!TIP|style:flat|label:Tips]
 > 训牛拔电池时不会打断隐身效果，训牛拔电池伤害无论如何都优先扣除盾的血量
 
 当玩家训牛离机时，获得的离机速度增加，并根据按键方向和被训牛泰坦朝向差距进行动态调整
@@ -40,7 +40,7 @@
 
 电池可以在GUI菜单内选择扔出
 
-> [!TIP|style:flat|label:Tips！]
+> [!TIP|style:flat|label:Tips]
 > 电池不仅可以在GUI菜单中选择丢弃，还可以在未打开GUI菜单时直接长按 泰坦辅助技能键（默认为G）来快速丢弃电池
 
 > [!NOTE|style:flat|label:Note]

@@ -18,7 +18,7 @@
 > [!ATTENTION|style:flat|label:Attention]
 > 电子烟类伤害会绕过护盾额外对铁驭造成50%的伤害，而电弧手榴弹会直接摧毁护盾
 
-> [!TIP|style:flat|label:Tips！]
+> [!TIP|style:flat|label:Tips]
 > 电池不仅可以在GUI菜单中使用，还可以直接长按 强化键（默认为C）使用
 
 > [!NOTE|style:flat|label:Note]

@@ -35,5 +35,5 @@
 >
 > 受影响技能：游侠左栏位，天图右栏位
 
-> [!TIP|style:flat|label:Tips！]
+> [!TIP|style:flat|label:Tips]
 > 如果你使用的是手机端，可以在左下角打开侧边栏
