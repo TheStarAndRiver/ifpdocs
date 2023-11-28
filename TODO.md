@@ -1,6 +1,6 @@
 ## TODO
 
-[x] find a good statuseffect for shield damaged fx
+- [x] find a good statuseffect for shield damaged fx
 
 - [ ] networkvar事件api，新增cmd禁止事件音频
 
