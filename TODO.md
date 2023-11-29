@@ -2,6 +2,8 @@
 
 - [x] find a good statuseffect for shield damaged fx
 
+- [x] 修复电弧雷击中护甲没有伤害提示的问题
+
 - [ ] networkvar事件api，新增cmd禁止事件音频
 
 - [ ] 实现vtol
@@ -55,3 +57,5 @@
 - [ ] npc_spectre leeching in fw and battery
 
 - [ ] can melee in sword blocking?
+
+- [ ] is have hit notice on damage <= 1?
