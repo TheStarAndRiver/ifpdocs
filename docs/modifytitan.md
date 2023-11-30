@@ -4,7 +4,7 @@
 ## 客制化泰坦
 
 > [!ATTENTION|style:flat|label:Attention]
-> 所有客制化泰坦均不支持任何自定配件，但支持自定被动
+> 所有客制化泰坦<strong><font color="#dc3545">均不支持任何自定配件</font></strong>，但支持自定被动
 
 ### 执政官
 
