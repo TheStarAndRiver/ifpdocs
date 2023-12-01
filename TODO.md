@@ -1,11 +1,5 @@
 ## TODO
 
-- [x] find a good statuseffect for shield damaged fx
-
-- [x] 修复电弧雷击中护甲没有伤害提示的问题
-
-- [ ] gui元素实时更新，掷出电池和使用电池放在第二行，开启gui时总是重定向选项在投掷电池和使用电池之后（如果合法）
-
 - [ ] 反侮辱系统，蹲起，脏话之类的
 
 - [ ] networkvar事件api，新增cmd禁止事件音频
@@ -47,19 +41,3 @@
 - [ ] RadiusDamage explosionForce
 
 - [ ] abs offhand wpn and switch to particle accelerator
-
-- [ ] health_regen pilot shield update
-
-- [ ] test firewallshotgun hit vortex shield
-
-- [ ] test charge ball hit vortex shield
-
-- [ ] at lastmin bank
-
-- [ ] game end time on nukestart
-
-- [ ] npc_spectre leeching in fw and battery
-
-- [ ] can melee in sword blocking?
-
-- [ ] is have hit notice on damage <= 1?
