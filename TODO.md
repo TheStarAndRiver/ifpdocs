@@ -1,5 +1,11 @@
 ## TODO
 
+- [ ] enable_spectre_hacking on at
+
+- [ ] try add reaper hacking
+
+- [ ] 增加野兽（字面意思）
+
 - [ ] 反侮辱系统，蹲起，脏话之类的
 
 - [ ] networkvar事件api，新增cmd禁止事件音频
