@@ -1,4 +1,4 @@
-- [<strong><font color="#FF1199">更新日志 / CHANGELOG</font></strong>](docs/changelog.md)
+- [<font color="#FF1199">更新日志 / CHANGELOG</font>>](docs/changelog.md)
 
 - <strong><font color="#00BB33">Introduction</font></strong>
 
@@ -16,9 +16,9 @@
 
 - <strong><font color="#3344DD">Servers</font></strong>
 
-  - [<strong><font color="#8855EE">无限火力Release</font></strong>](docs/release.md)
+  - [<font color="#8855EE">无限火力Release</font>](docs/release.md)
 
-  - [<strong><font color="#8855EE">无限火力Rotation</font></strong>](docs/rotation.md)
+  - [<font color="#8855EE">无限火力Rotation</font>](docs/rotation.md)
 
   - [<font color="#9966FF">Rotation中各个模式的改动</font>](docs/gamemode.md)
 
