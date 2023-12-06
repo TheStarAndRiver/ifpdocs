@@ -4,6 +4,8 @@
 
 - [ ] try add reaper hacking
 
+- [ ] spec mode
+
 - [x] fw采集机不吃近战伤害
 
 - [ ] 增加野兽（字面意思）
