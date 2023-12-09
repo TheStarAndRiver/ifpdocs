@@ -6,10 +6,6 @@
 
 - [ ] spec mode
 
-- [x] fw采集机不吃近战伤害
-
-- [x] 核弹开启时停止播放死亡回放
-
 - [ ] 增加野兽（字面意思）
 
 - [ ] 反侮辱系统，蹲起，脏话之类的
@@ -53,11 +49,3 @@
 - [ ] RadiusDamage explosionForce
 
 - [ ] abs offhand wpn and switch to particle accelerator
-
-- [ ] better respawn point
-
-- [ ] pilot shield damaged
-
-- [ ] cm space node
-
-- [ ] anti afk
