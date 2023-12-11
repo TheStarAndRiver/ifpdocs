@@ -1,6 +1,6 @@
 > [!NOTE|style:flat|label:Note]
 >
-> **如果你发现了任何bug（或者疑似bug）一定要积极的反馈给我！这真的很重要！**
+> <strong><font color="#17a2b8">如果你发现了任何bug（或者疑似bug）一定要积极的反馈给我！这真的很重要！</font></strong>
 >
 > 联系方式：
 >
@@ -29,7 +29,7 @@
 [zxcPandora](https://github.com/zxcPandora)
 
 > [!WARNING|style:flat|label:已知问题]
-> **使用任何的更改技能HUD显示类MOD都会导致部分客制化泰坦技能的充能无法正常显示，请使用原版HUD！**
+> <strong><font color="#852d12">使用任何的更改技能HUD显示类MOD都会导致部分客制化泰坦技能的充能无法正常显示，请使用原版HUD！</font></strong>
 >
 > 此问题主要是因为mod更改过的hud显示充能剩余的逻辑和原版不一致，导致部分客制化泰坦的技能因为客户端不同步的问题充能条会抽风，此问题无法修复，我也不会去修复
 >
