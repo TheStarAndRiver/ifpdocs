@@ -1,6 +1,6 @@
 > [!NOTE|style:flat|label:Note]
 >
-> <strong><font color="#17a2b8">如果你发现了任何bug（或者疑似bug）一定要积极的反馈给我！这真的很重要！</font></strong>
+> <strong><font color="#17a2b8">如果你发现了任何BUG（或者疑似）一定要积极的反馈给我！这真的很重要！</font></strong>
 >
 > 联系方式：
 >
