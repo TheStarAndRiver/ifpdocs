@@ -1,27 +1,27 @@
-- [<font color="#FF1199">更新日志 / CHANGELOG</font>](changelog.md)
+- [更新日志 / CHANGELOG](changelog.md)
 
 - <strong><font color="#00BB33">Introduction</font></strong>
 
-  - [<font color="#33CCAA">连杀奖励和GUI菜单</font>](docs/killstreak.md)
+  - [连杀奖励和GUI菜单](docs/killstreak.md)
 
-  - [<font color="#33CCAA">铁驭个人护盾</font>](docs/pilotshield.md)
+  - [铁驭个人护盾](docs/pilotshield.md)
 
-  - [<font color="#33CCAA">一代训牛术和电池机制</font>](docs/rodeo.md)
+  - [一代训牛术和电池机制](docs/rodeo.md)
 
-  - [<font color="#33CCAA">原版泰坦的改动</font>](docs/vanillatitan.md)
+  - [原版泰坦的改动](docs/vanillatitan.md)
 
-  - [<font color="#33CCAA">七个客制化泰坦</font>](docs/modifytitan.md)
+  - [七个客制化泰坦](docs/modifytitan.md)
 
-  - [<font color="#33CCAA">关于关闭进游戏时的黑屏</font>](docs/stop_show_the_fking_docs.md)
+  - [关于关闭进游戏时的黑屏](docs/stop_show_the_fking_docs.md)
 
 - <strong><font color="#3344DD">Servers</font></strong>
 
-  - [<font color="#8855EE">无限火力Release</font>](docs/release.md)
+  - [无限火力Stable](docs/stable.md)
 
-  - [<font color="#8855EE">无限火力Rotation</font>](docs/rotation.md)
+  - [无限火力Rotation](docs/rotation.md)
 
-  - [<font color="#9966FF">Rotation中各个模式的改动</font>](docs/gamemode.md)
+  - [Rotation中各个模式的改动](docs/gamemode.md)
 
 - <strong><font color="#DD8866">Developer</font></strong>
 
-  - [<font color="#FF9966">Music API(未完成)</font>](dev/musicapi.md)
+  - [Music API(未完成)](dev/musicapi.md)

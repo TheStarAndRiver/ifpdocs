@@ -1,5 +1,9 @@
 ## TODO
 
+- [ ] damage core amp offhand weapon
+
+- [ ] amp leeched spectre
+
 - [ ] enable_spectre_hacking on at
 
 - [ ] try add reaper hacking
@@ -47,3 +51,5 @@
 - [ ] RadiusDamage explosionForce
 
 - [ ] abs offhand wpn and switch to particle accelerator
+
+- [ ] anti afk / scm
