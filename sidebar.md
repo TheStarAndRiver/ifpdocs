@@ -16,7 +16,7 @@
 
 - <strong><font color="#3344DD">Servers</font></strong>
 
-  - [<font color="#7755BB">无限火力Release</font>](docs/release.md)
+  - [<font color="#7755BB">无限火力Stable</font>](docs/release.md)
 
   - [<font color="#7755BB">无限火力Rotation</font>](docs/rotation.md)
 
