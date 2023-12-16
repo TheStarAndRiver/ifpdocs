@@ -8,7 +8,7 @@
 
 - [ ] try add reaper hacking
 
-- [ ] spec mode
+- [ ] vscripts to control balance mods
 
 - [ ] 增加野兽（字面意思）
 
@@ -51,5 +51,3 @@
 - [ ] RadiusDamage explosionForce
 
 - [ ] abs offhand wpn and switch to particle accelerator
-
-- [ ] anti afk / scm
