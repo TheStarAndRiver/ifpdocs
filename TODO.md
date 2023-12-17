@@ -10,6 +10,8 @@
 
 - [ ] vscripts to control balance mods
 
+- [ ] cm try teleport player to spacenode, and doesn't force set up his pos, try fixing problem about cannot control cm
+
 - [ ] 增加野兽（字面意思）
 
 - [ ] networkvar事件api，新增cmd禁止事件音频
