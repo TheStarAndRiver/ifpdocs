@@ -6,6 +6,9 @@
 > [!ATTENTION|style:flat|label:Attention]
 > 所有客制化泰坦<strong><font color="#dc3545">均不支持任何自定配件</font></strong>，但支持自定被动
 
+> [!NOTE|style:flat|label:Note]
+> 部分泰坦技能和功能使用和参考了[VoyageDB](https://github.com/DBmaoha)的[Super.Mixed.Game](https://github.com/DBmaoha/Super.Mixed.Game)，在此由衷感谢！
+
 ### 执政官
 
 启用：离子，携带至尊涂装
