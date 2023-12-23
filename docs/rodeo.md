@@ -12,7 +12,7 @@
 
 如果无友方铁驭补给电池**（自己拿电池上机不行）**，则再次被训牛时敌方铁驭**不需要拔电池就可以直接掏枪**
 
-> [!WARNING|style:flat|label:Warning]
+> [!ATTENTION|style:flat|label:Attention]
 > 电池被拔出后，会在你泰坦的名字后显示`反應爐外漏`，<strong><font color="#dc3545">所有人都能看到</font></strong>，小心行事！
 
 > [!TIP|style:flat|label:Tips]

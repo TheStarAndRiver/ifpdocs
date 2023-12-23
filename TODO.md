@@ -4,13 +4,7 @@
 
 - [ ] amp leeched spectre
 
-- [ ] enable_spectre_hacking on at
-
 - [ ] try add reaper hacking
-
-- [ ] vscripts to control balance mods
-
-- [ ] cm try teleport player to spacenode, and doesn't force set up his pos, try fixing problem about cannot control cm
 
 - [ ] 增加野兽（字面意思）
 
