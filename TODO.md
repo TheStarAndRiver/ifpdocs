@@ -26,8 +26,6 @@
 
 - [ ] 修复ifp太屎山的问题
 
-  - [ ] 从上游更新文件
-
   - [ ] 注意endsignal存在直接return不跑下面语句情况
 
   - [ ] 客制化武器更改damagesourceid
