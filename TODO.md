@@ -39,3 +39,5 @@
 - [ ] RadiusDamage explosionForce
 
 - [ ] abs offhand wpn and switch to particle accelerator
+
+- [ ] using grenade to rodeo
