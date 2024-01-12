@@ -1,7 +1,5 @@
 ## TODO
 
-- [ ] damage core amp offhand weapon
-
 - [ ] amp leeched spectre
 
 - [ ] try add reaper hacking
@@ -39,5 +37,3 @@
 - [ ] RadiusDamage explosionForce
 
 - [ ] abs offhand wpn and switch to particle accelerator
-
-- [ ] using grenade to rodeo
