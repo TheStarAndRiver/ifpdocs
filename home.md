@@ -6,7 +6,7 @@
 >
 > QQ群：`150381961` [@LightBlueCube](https://github.com/LightBlueCube)
 >
-> 或[发送一个Issues](https://github.com/LightBlueCube/ifpdocs/issues/new)给我
+> 或[发送一个Issues](https://github.com/LightBlueCube/Infinite-Firepower/issues/new/choose)给我
 
 ## 特别鸣谢（名字按首字母顺序排列）：
 
